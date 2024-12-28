@@ -1,16 +1,17 @@
-# shopping_app
+# Shopping interface app
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+## This is an interface for a shopping app
 
-This project is a starting point for a Flutter application.
+## Code Details
 
-A few resources to get you started if this is your first Flutter project:
+### Core Logic
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Used ListView, GridView and PageView to make the layout of the page.
+2. Used MedaiQuery to make the UI responsive.
+3. Utilized Network images.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Output
+
+![image](https://github.com/user-attachments/assets/c3064845-a54f-4018-85bb-25bdb4148b51)
